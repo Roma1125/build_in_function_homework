@@ -2,5 +2,5 @@
 # https://github.com/codeschool43/Build_in_function_homework#build_func05
 n=3
 x=6
-a=pow(x,n)+pow(n,x)
-print(a) 
+answer=pow(x,n)+pow(n,x)
+print(answer) 
